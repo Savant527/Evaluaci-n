@@ -1,0 +1,40 @@
+.navbar {
+    background-color: orange;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    
+}
+.footer {
+    background-color: orange;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+    align-items: center;
+    
+}
+ .letra {
+
+text-align: center;
+margin: auto;
+
+
+
+ }
+ .texto {
+     background-color: rgb(247, 247, 247);
+ }
+ .titulo {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+ }
+  .parrafo {
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .diseñado {
+    margin-top: 10px;
+}
+.text {
+    margin-left: 20px;
+}
